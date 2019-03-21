@@ -36,7 +36,7 @@ class TabItem {
   constructor(element) {
     // Assign this.element to the passed in element
     // this.element;
-  }
+  } 
 
   select() {
     // Select all ".tabs-item" elements from the DOM
